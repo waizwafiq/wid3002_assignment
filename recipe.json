@@ -647,7 +647,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. Heat vegetable oil in a large pot or Dutch oven over medium heat.\n2. Add diced onion, bell pepper, and minced garlic to the pot. Sauté until vegetables are softened.\n3. Add sliced smoked sausage to the pot and cook until browned.\n4. Stir in long-grain white rice, diced tomatoes, chicken broth, Cajun seasoning, paprika, salt, and pepper.\n5. Bring the mixture to a boil, then reduce heat to low. Cover and simmer for about 20 minutes or until the rice is cooked and liquid is absorbed.\n6. Add peeled and deveined shrimp to the pot. Cover and cook for an additional 5 minutes or until the shrimp are pink and cooked through.\n7. Remove from heat and let the jambalaya rest for a few minutes before serving.\n8. Serve the shrimp and sausage jambalaya as a flavorful and hearty dish.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 560,
           "carbohydrates": 52,
           "protein": 22,
@@ -673,7 +673,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. In a small bowl, whisk together soy sauce, oyster sauce, cornstarch, salt, and pepper.\n2. Heat vegetable oil in a large skillet or wok over high heat.\n3. Add thinly sliced beef to the skillet and stir-fry until browned. Remove from the skillet and set aside.\n4. In the same skillet, add minced garlic, sliced onion, and sliced bell pepper. Stir-fry until vegetables are crisp-tender.\n5. Add broccoli florets to the skillet and continue stir-frying for a few minutes.\n6. Return the beef to the skillet and pour the sauce mixture over the ingredients. Stir-fry until the sauce thickens and coats the beef and vegetables.\n7. Remove from heat and let the stir-fry rest for a minute.\n8. Serve the beef and broccoli stir-fry over a bed of cooked white rice.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 520,
           "carbohydrates": 46,
           "protein": 28,
@@ -695,7 +695,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. Cook fettuccine pasta according to package instructions. Drain and set aside.\n2. Season sliced chicken breasts with salt and pepper.\n3. In a large skillet, melt butter over medium-high heat. Add minced garlic and cook until fragrant.\n4. Add chicken slices to the skillet and cook until browned and cooked through.\n5. Reduce heat to low and pour heavy cream into the skillet. Stir well.\n6. Stir in grated Parmesan cheese and continue to cook until the sauce thickens.\n7. Add cooked fettuccine pasta to the skillet and toss to coat the pasta in the sauce.\n8. Serve the chicken Alfredo pasta as a rich and creamy dish.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 720,
           "carbohydrates": 56,
           "protein": 38,
@@ -718,7 +718,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. Preheat the oven to 400°F (200°C) and line a baking sheet with foil.\n2. In a bowl, whisk together barbecue sauce, honey, soy sauce, vegetable oil, minced garlic, paprika, salt, and pepper.\n3. Place chicken wings in a large ziplock bag and pour the marinade over the wings. Seal the bag and massage the wings to coat them in the marinade.\n4. Let the wings marinate in the refrigerator for at least 30 minutes.\n5. Arrange the marinated wings on the prepared baking sheet and bake in the preheated oven for about 40-45 minutes, or until the wings are cooked through and caramelized.\n6. Serve the honey BBQ chicken wings as a flavorful and sticky appetizer or main dish.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 800,
           "carbohydrates": 34,
           "protein": 50,
@@ -741,7 +741,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. Preheat the oven to 375°F (190°C) and lightly grease a baking dish.\n2. In a shallow dish, combine breadcrumbs, grated Parmesan cheese, dried oregano, salt, and pepper.\n3. Coat chicken breasts with the breadcrumb mixture, pressing lightly to adhere.\n4. Heat olive oil in a skillet over medium-high heat. Add chicken breasts and cook until browned on both sides.\n5. Transfer the browned chicken breasts to the greased baking dish.\n6. Pour marinara sauce over the chicken breasts and sprinkle shredded mozzarella cheese on top.\n7. Bake in the preheated oven for about 25-30 minutes, or until the chicken is cooked through and the cheese is melted and bubbly.\n8. Serve the chicken Parmesan with pasta or a side of vegetables.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 480,
           "carbohydrates": 25,
           "protein": 38,
@@ -765,7 +765,7 @@
           "Cooking oil for stir-frying"
         ],
         "instructions": "1. In a bowl, combine soy sauce, hoisin sauce, sesame oil, minced garlic, and grated ginger.\n2. Heat cooking oil in a large skillet or wok over medium-high heat.\n3. Add tofu cubes to the skillet and cook until lightly browned on all sides. Remove tofu from the skillet.\n4. In the same skillet, add more oil if needed and stir-fry the mixed vegetables until crisp-tender.\n5. Return the cooked tofu to the skillet, pour the sauce over the ingredients, and stir-fry for a couple of minutes.\n6. Sprinkle chopped green onions on top and stir-fry for another minute.\n7. Serve the tofu stir-fry hot with steamed rice or noodles.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 250,
           "carbohydrates": 20,
           "protein": 18,
@@ -792,7 +792,7 @@
           "2 tablespoons tahini dressing"
         ],
         "instructions": "1. In a shallow dish, whisk together tamari sauce, rice vinegar, maple syrup, and sesame oil.\n2. Add tempeh slices to the marinade and let them marinate for at least 15 minutes.\n3. Heat a skillet over medium heat and cook the marinated tempeh slices until golden brown on both sides.\n4. Assemble the Buddha bowls by arranging mixed greens, cooked quinoa, roasted vegetables, sliced avocado, edamame beans, and cooked tempeh slices in separate sections.\n5. Sprinkle pumpkin seeds on top and drizzle with tahini dressing.\n6. Serve the tempeh Buddha bowls as a nourishing and satisfying meal.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 450,
           "carbohydrates": 40,
           "protein": 25,
@@ -816,7 +816,7 @@
           "Cooking spray"
         ],
         "instructions": "1. Preheat the oven to 425°F (220°C) and line a baking sheet with parchment paper.\n2. In a bowl, combine cornstarch, nutritional yeast, garlic powder, paprika, salt, and black pepper.\n3. Toss tofu cubes in the cornstarch mixture until well coated.\n4. Drizzle olive oil over the coated tofu cubes and toss to evenly distribute the oil.\n5. Place the tofu cubes on the prepared baking sheet in a single layer.\n6. Spray the top of the tofu cubes with cooking spray to help them crisp up in the oven.\n7. Bake in the preheated oven for 25-30 minutes, or until the tofu nuggets are crispy and golden brown.\n8. Serve the crispy baked tofu nuggets as a protein-packed snack or as a topping for salads and bowls.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 220,
           "carbohydrates": 15,
           "protein": 15,
@@ -837,7 +837,7 @@
           "1/4 teaspoon black pepper"
         ],
         "instructions": "1. Preheat the oven to 425°F (220°C) and line a baking sheet with parchment paper.\n2. Wash and peel the sweet potatoes, then cut them into fries of your desired thickness.\n3. In a large bowl, combine olive oil, paprika, garlic powder, salt, and black pepper.\n4. Toss the sweet potato fries in the seasoned oil mixture, ensuring they are evenly coated.\n5. Arrange the fries in a single layer on the prepared baking sheet.\n6. Bake for 20-25 minutes, flipping halfway through, until the fries are crispy and golden brown.\n7. Serve the baked sweet potato fries as a healthier alternative to traditional fries.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 180,
           "carbohydrates": 30,
           "protein": 2,
@@ -860,7 +860,7 @@
           "2 eggs, beaten"
         ],
         "instructions": "1. Preheat the oven to 425°F (220°C) and line a baking sheet with parchment paper.\n2. Cut the chicken breasts into bite-sized nugget pieces.\n3. In a shallow bowl, combine breadcrumbs, Parmesan cheese, paprika, garlic powder, salt, and black pepper.\n4. Dip each chicken nugget into the beaten eggs, then coat it with the breadcrumb mixture.\n5. Place the coated chicken nuggets on the prepared baking sheet.\n6. Bake for 15-20 minutes, flipping halfway through, until the nuggets are golden brown and cooked through.\n7. Serve the baked chicken nuggets as a healthier alternative to fried nuggets, along with your favorite dipping sauce.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 220,
           "carbohydrates": 15,
           "protein": 25,
@@ -880,7 +880,7 @@
           "1/4 cup sour cream"
         ],
         "instructions": "1. Preheat the oven according to the package instructions of the frozen french fries.\n2. Arrange the french fries in a single layer on a baking sheet and bake according to the package instructions until they are crispy and golden brown.\n3. Remove the fries from the oven and sprinkle shredded cheddar cheese over the top.\n4. Return the fries to the oven for a few minutes until the cheese has melted.\n5. Remove from the oven and top with bacon bits, diced green onions, and a dollop of sour cream.\n6. Serve the loaded cheese fries as a flavorful and indulgent snack or appetizer.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 500,
           "carbohydrates": 30,
           "protein": 12,
@@ -903,7 +903,7 @@
           "Vegetable oil, for frying"
         ],
         "instructions": "1. Cut the chicken breasts into bite-sized nugget pieces.\n2. In a shallow bowl, combine all-purpose flour, paprika, garlic powder, salt, and black pepper.\n3. Dip each chicken nugget into the beaten eggs, then coat it with the flour mixture.\n4. Heat vegetable oil in a deep fryer or large pot to 350°F (175°C).\n5. Fry the coated chicken nuggets in the hot oil until they are golden brown and cooked through, about 3-4 minutes per side.\n6. Remove the chicken nuggets from the oil and drain on paper towels to remove excess oil.\n7. Serve the deep-fried chicken nuggets as a crispy and flavorful snack or main dish.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 450,
           "carbohydrates": 30,
           "protein": 25,
@@ -923,7 +923,7 @@
           "2 tablespoons chopped chives"
         ],
         "instructions": "1. Preheat the oven to 400°F (200°C).\n2. Scrub the potatoes clean and prick them all over with a fork.\n3. Place the potatoes on a baking sheet and bake for about 45-60 minutes, or until the potatoes are tender when pierced with a fork.\n4. Remove the potatoes from the oven and let them cool slightly.\n5. Cut each potato in half lengthwise and scoop out most of the flesh, leaving a thin layer attached to the skin.\n6. Place the potato skins back on the baking sheet.\n7. Sprinkle shredded cheddar cheese and bacon bits over the potato skins.\n8. Return the potato skins to the oven for a few minutes until the cheese has melted.\n9. Remove from the oven and top with a dollop of sour cream and chopped chives.\n10. Serve the loaded potato skins as a delicious and indulgent appetizer or side dish.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 400,
           "carbohydrates": 30,
           "protein": 15,
@@ -950,7 +950,7 @@
           "2 green onions, sliced"
         ],
         "instructions": "1. Cook the noodles according to the package instructions. Drain and set aside.\n2. In a large skillet or wok, heat sesame oil over medium heat.\n3. Add minced garlic, sliced red bell pepper, julienned carrot, broccoli florets, and snap peas to the skillet. Stir-fry for a few minutes until the vegetables are crisp-tender.\n4. In a small bowl, whisk together low-sodium soy sauce, hoisin sauce, rice vinegar, and red pepper flakes.\n5. Add the cooked noodles and sauce to the skillet. Toss to combine and coat the noodles and vegetables.\n6. Cook for an additional 2-3 minutes until heated through.\n7. Remove from heat and garnish with sliced green onions.\n8. Serve the vegetable stir-fry noodles as a flavorful and nutritious meal.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 380,
           "carbohydrates": 60,
           "protein": 10,
@@ -978,7 +978,7 @@
           "Lime wedges, for serving"
         ],
         "instructions": "1. Cook the rice noodles according to the package instructions. Drain and set aside.\n2. Heat vegetable oil in a large skillet or wok over medium-high heat.\n3. Add minced garlic and shrimp to the skillet. Stir-fry until the shrimp are pink and cooked through.\n4. Push the shrimp to one side of the skillet and add beaten eggs to the other side. Scramble the eggs until cooked.\n5. Add cooked rice noodles, bean sprouts, and sliced green onions to the skillet. Toss to combine.\n6. In a small bowl, whisk together low-sodium soy sauce, fish sauce, brown sugar, and lime juice.\n7. Pour the sauce over the noodles and shrimp. Stir-fry for an additional 2-3 minutes.\n8. Remove from heat and garnish with crushed peanuts.\n9. Serve the shrimp pad Thai with lime wedges for an extra burst of flavor.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 410,
           "carbohydrates": 56,
           "protein": 18,
@@ -1004,7 +1004,7 @@
           "Toasted sesame seeds, for garnish"
         ],
         "instructions": "1. Cook the instant ramen noodles according to the package instructions. Drain and set aside.\n2. In a large pot, bring vegetable broth to a boil.\n3. Add sliced mushrooms, sliced bok choy, shredded carrots, snow peas, and sliced green onions to the pot.\n4. Reduce heat and let the vegetables simmer in the broth for about 5 minutes until they are tender.\n5. Stir in low-sodium soy sauce, sesame oil, and red pepper flakes (if desired).\n6. Add the cooked ramen noodles to the pot and heat through.\n7. Remove from heat and ladle the veggie ramen noodle soup into bowls.\n8. Garnish with toasted sesame seeds.\n9. Serve the veggie ramen noodle soup as a comforting and satisfying meal.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 300,
           "carbohydrates": 40,
           "protein": 10,
@@ -1028,7 +1028,7 @@
           "Chopped chives for garnish"
         ],
         "instructions": "1. In a large pot, combine diced potatoes, diced onion, minced garlic, whole milk, and heavy cream.\n2. Bring the mixture to a simmer over medium heat and cook until the potatoes are tender.\n3. Use an immersion blender or transfer the soup to a blender and blend until smooth and creamy.\n4. Return the soup to the pot and stir in shredded cheddar cheese until melted.\n5. Season with salt and pepper to taste.\n6. Ladle the creamy potato soup into bowls and garnish with crumbled bacon and chopped chives.\n7. Serve hot and enjoy.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 520,
           "carbohydrates": 35,
           "protein": 14,
@@ -1054,7 +1054,7 @@
           "Chopped fresh parsley for garnish"
         ],
         "instructions": "1. In a large pot, brown the beef stew meat over medium heat.\n2. Add diced carrots, celery, onion, and minced garlic to the pot. Cook until the vegetables are tender.\n3. Pour in beef broth and add pearl barley, bay leaves, dried thyme, salt, and pepper.\n4. Bring the soup to a boil, then reduce heat and simmer for about 1 hour or until the beef is tender and the barley is cooked.\n5. Remove the bay leaves from the soup.\n6. Ladle the beef and barley soup into bowls and garnish with chopped fresh parsley.\n7. Serve hot and enjoy.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 380,
           "carbohydrates": 30,
           "protein": 28,
@@ -1077,7 +1077,7 @@
           "Chopped fresh parsley for garnish"
         ],
         "instructions": "1. In a large pot, melt butter over medium heat.\n2. Add sliced mushrooms to the pot and cook until they release their moisture and become tender.\n3. Sprinkle all-purpose flour over the mushrooms and stir to coat.\n4. Gradually pour in vegetable broth while stirring constantly to prevent lumps.\n5. Bring the soup to a simmer and cook for about 10 minutes until it thickens.\n6. Stir in heavy cream, dried thyme, salt, and pepper.\n7. Continue cooking for another 5 minutes.\n8. Ladle the cream of mushroom soup into bowls and garnish with chopped fresh parsley.\n9. Serve hot and enjoy.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 420,
           "carbohydrates": 14,
           "protein": 6,
@@ -1103,7 +1103,7 @@
           "Fresh parsley for garnish"
         ],
         "instructions": "1. Rinse the lentils under cold water and drain.\n2. In a large pot, heat some oil over medium heat and sauté the onion, carrots, celery, and garlic until softened.\n3. Add the lentils, vegetable broth, cumin, paprika, turmeric, salt, and pepper to the pot.\n4. Bring the soup to a boil, then reduce the heat and simmer for about 30 minutes or until the lentils are tender.\n5. Adjust the seasoning if needed.\n6. Ladle the lentil soup into bowls and garnish with fresh parsley.\n7. Serve hot and enjoy.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 280,
           "carbohydrates": 48,
           "protein": 18,
@@ -1130,7 +1130,7 @@
           "Grated Parmesan cheese for garnish"
         ],
         "instructions": "1. In a large pot, sauté the onion, carrots, celery, and garlic until softened.\n2. Add the zucchini, diced tomatoes, vegetable broth, dried basil, dried oregano, salt, and pepper to the pot.\n3. Bring the soup to a boil, then reduce the heat and simmer for about 15 minutes or until the vegetables are tender.\n4. Stir in the cooked pasta and heat through.\n5. Adjust the seasoning if needed.\n6. Ladle the vegetable minestrone soup into bowls and garnish with grated Parmesan cheese.\n7. Serve hot and enjoy.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 240,
           "carbohydrates": 48,
           "protein": 8,
@@ -1156,7 +1156,7 @@
           "Fresh parsley for garnish"
         ],
         "instructions": "1. In a large pot, sauté the chicken, onion, carrots, celery, and garlic until the chicken is cooked through and the vegetables are softened.\n2. Add the chicken broth, diced tomatoes, dried thyme, dried rosemary, salt, and pepper to the pot.\n3. Bring the soup to a boil, then reduce the heat and simmer for about 20 minutes or until the flavors are well combined.\n4. Adjust the seasoning if needed.\n5. Ladle the chicken and vegetable soup into bowls and garnish with fresh parsley.\n6. Serve hot and enjoy.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 280,
           "carbohydrates": 16,
           "protein": 28,
@@ -1178,7 +1178,7 @@
           "1 teaspoon olive oil"
         ],
         "instructions": "1. In a bowl, beat the eggs with salt and pepper.\n2. Heat olive oil in a non-stick pan over medium heat.\n3. Add the diced bell peppers, onions, and tomatoes to the pan and sauté until softened.\n4. Add the chopped spinach to the pan and cook until wilted.\n5. Pour the beaten eggs over the vegetables and let it cook undisturbed for a few minutes.\n6. Once the edges are set, gently fold the omelette in half.\n7. Cook for another minute until the eggs are fully set.\n8. Slide the omelette onto a plate and serve hot.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 180,
           "carbohydrates": 8,
           "protein": 14,
@@ -1197,7 +1197,7 @@
           "Chopped fresh herbs (e.g., parsley, chives) for garnish"
         ],
         "instructions": "1. Preheat the oven to 425°F (220°C).\n2. Cut the avocados in half and remove the pits.\n3. Scoop out a little extra flesh from each avocado half to make room for the eggs.\n4. Place the avocado halves on a baking sheet.\n5. Crack an egg into each avocado half.\n6. Season with salt and pepper.\n7. Bake in the preheated oven for about 12-15 minutes or until the eggs are cooked to your liking.\n8. Garnish with chopped fresh herbs.\n9. Serve hot.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 320,
           "carbohydrates": 14,
           "protein": 12,
@@ -1219,7 +1219,7 @@
           "1 teaspoon olive oil"
         ],
         "instructions": "1. In a bowl, beat the eggs with salt and pepper.\n2. Heat olive oil in a non-stick pan over medium heat.\n3. Add the diced bell peppers, onions, and tomatoes to the pan and sauté until softened.\n4. Add the chopped spinach to the pan and cook until wilted.\n5. Pour the beaten eggs over the vegetables and cook, stirring gently, until the eggs are scrambled and cooked to your desired consistency.\n6. Season with additional salt and pepper if needed.\n7. Remove from heat and transfer to a plate.\n8. Serve hot.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 240,
           "carbohydrates": 10,
           "protein": 16,
@@ -1240,7 +1240,7 @@
           "Butter for toasting"
         ],
         "instructions": "1. Split the English muffins and toast them until golden brown.\n2. In a skillet, fry the Canadian bacon until heated through.\n3. Poach the eggs until the yolks are still runny.\n4. Place the toasted English muffin halves on a plate.\n5. Top each half with a slice of Canadian bacon and a poached egg.\n6. Pour Hollandaise sauce over the eggs.\n7. Season with salt and pepper.\n8. Serve immediately.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 550,
           "carbohydrates": 40,
           "protein": 25,
@@ -1262,7 +1262,7 @@
           "1/4 teaspoon nutmeg"
         ],
         "instructions": "1. Preheat the oven to 375°F (190°C).\n2. Line a pie dish with the pre-made pie crust.\n3. In a bowl, whisk together the eggs, heavy cream, salt, pepper, and nutmeg.\n4. Sprinkle the bacon and shredded Gruyere cheese over the pie crust.\n5. Pour the egg mixture over the bacon and cheese.\n6. Bake in the preheated oven for about 35-40 minutes or until the quiche is set and golden brown.\n7. Remove from the oven and let it cool slightly before serving.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 480,
           "carbohydrates": 18,
           "protein": 20,
@@ -1285,7 +1285,7 @@
           "Fresh basil leaves for garnish"
         ],
         "instructions": "1. Heat olive oil in a skillet over medium heat.\n2. Sauté the diced onion and minced garlic until softened.\n3. Add the red pepper flakes and diced tomatoes to the skillet.\n4. Simmer the tomato sauce for about 10 minutes.\n5. Create small wells in the sauce and crack the eggs into each well.\n6. Cover the skillet and cook for about 5-6 minutes or until the eggs are cooked to your desired doneness.\n7. Season with salt and pepper.\n8. Garnish with fresh basil leaves.\n9. Serve hot with crusty bread.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 240,
           "carbohydrates": 14,
           "protein": 12,
@@ -1307,7 +1307,7 @@
           "Vegetable oil for cooking"
         ],
         "instructions": "1. Heat vegetable oil in a skillet over medium-high heat.\n2. Sauté the sliced onions and green bell peppers until softened.\n3. Push the vegetables to the side of the skillet and add the sliced ribeye steak.\n4. Cook the steak until browned and cooked through.\n5. Season with salt and pepper.\n6. Place slices of provolone cheese on top of the steak and allow it to melt.\n7. Toast the hoagie rolls until lightly golden.\n8. Fill the rolls with the steak, onions, and peppers.\n9. Serve hot.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 700,
           "carbohydrates": 50,
           "protein": 45,
@@ -1332,7 +1332,7 @@
           "Raspberry jam for serving"
         ],
         "instructions": "1. Assemble the sandwiches by placing a slice of ham, turkey, and Swiss cheese between two slices of bread.\n2. In a shallow dish, whisk together the eggs, milk, salt, and pepper.\n3. Dip each sandwich into the egg mixture, coating both sides.\n4. In a skillet, melt butter over medium heat.\n5. Cook the sandwiches until golden brown on each side.\n6. Remove from the skillet and dust with powdered sugar.\n7. Serve with raspberry jam for dipping.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 550,
           "carbohydrates": 30,
           "protein": 30,
@@ -1357,7 +1357,7 @@
           "Lettuce, tomato, and mayonnaise for serving"
         ],
         "instructions": "1. Preheat vegetable oil in a deep fryer or large pot to 350°F (175°C).\n2. In a shallow dish, combine the flour, paprika, garlic powder, onion powder, and cayenne pepper.\n3. Dip the chicken breasts into the buttermilk, then coat them in the flour mixture.\n4. Fry the chicken breasts in the hot oil until golden brown and cooked through.\n5. Remove from the oil and drain on paper towels.\n6. Toast the hamburger buns.\n7. Assemble the sandwiches by placing a fried chicken breast on each bun.\n8. Top with lettuce, tomato, and mayonnaise.\n9. Serve immediately.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 600,
           "carbohydrates": 45,
           "protein": 35,
@@ -1380,7 +1380,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. Toast the slices of whole wheat bread.\n2. Spread mayonnaise on one side of each bread slice.\n3. Layer the turkey slices, avocado slices, lettuce leaves, and tomato slices on two bread slices.\n4. Drizzle Dijon mustard on top and season with salt and pepper.\n5. Top with the remaining bread slices to make two sandwiches.\n6. Cut the sandwiches in half and serve.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 400,
           "carbohydrates": 35,
           "protein": 25,
@@ -1402,7 +1402,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. Toast the slices of ciabatta bread.\n2. Layer the mozzarella cheese slices, tomato slices, and fresh basil leaves on two slices of bread.\n3. Drizzle balsamic glaze and olive oil on top.\n4. Season with salt and pepper.\n5. Top with the remaining bread slices to make two sandwiches.\n6. Cut the sandwiches in half and serve.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 450,
           "carbohydrates": 35,
           "protein": 20,
@@ -1426,7 +1426,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. Spread a generous amount of hummus on each whole wheat tortilla.\n2. Layer the carrot, bell pepper, cucumber, red onion, and fresh cilantro leaves on top of the hummus.\n3. Squeeze lemon juice over the vegetables.\n4. Season with salt and pepper.\n5. Roll up the tortillas tightly to form wraps.\n6. Cut the wraps in half and serve.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 350,
           "carbohydrates": 55,
           "protein": 10,
@@ -1449,7 +1449,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. Preheat the grill to medium-high heat.\n2. Season the chicken breasts with salt and pepper.\n3. Grill the chicken for 6-8 minutes per side or until cooked through.\n4. Remove the chicken from the grill and let it rest for a few minutes.\n5. Slice the chicken into strips.\n6. In a large bowl, combine the salad greens, cherry tomatoes, cucumber, red onion, and sliced almonds.\n7. Drizzle the balsamic vinaigrette over the salad and toss to coat.\n8. Top the salad with the grilled chicken slices.\n9. Serve and enjoy.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 350,
           "carbohydrates": 15,
           "protein": 30,
@@ -1472,7 +1472,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. In a large bowl, combine the cooked quinoa, mixed salad greens, cherry tomatoes, bell peppers, red onion, and crumbled feta cheese.\n2. Drizzle the lemon vinaigrette over the salad and toss to coat.\n3. Season with salt and pepper.\n4. Serve and enjoy.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 300,
           "carbohydrates": 40,
           "protein": 10,
@@ -1495,7 +1495,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. In a large bowl, combine the mixed salad greens, cucumber, cherry tomatoes, Kalamata olives, and crumbled feta cheese.\n2. Drizzle the red wine vinaigrette over the salad and toss to coat.\n3. Sprinkle dried oregano over the salad.\n4. Season with salt and pepper.\n5. Serve and enjoy.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 250,
           "carbohydrates": 12,
           "protein": 8,
@@ -1518,7 +1518,7 @@
           "1 cup chocolate chips"
         ],
         "instructions": "1. Preheat the oven to 375°F (190°C).\n2. In a large bowl, cream together the butter, granulated sugar, and brown sugar until smooth.\n3. Beat in the vanilla extract.\n4. In a separate bowl, combine the flour, baking soda, and salt.\n5. Gradually add the dry ingredients to the butter mixture and mix well.\n6. Stir in the chocolate chips.\n7. Drop spoonfuls of dough onto a greased baking sheet.\n8. Bake for 8-10 minutes or until golden brown.\n9. Allow the cookies to cool on the baking sheet for a few minutes before transferring to a wire rack to cool completely.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 150,
           "carbohydrates": 20,
           "protein": 2,
@@ -1547,7 +1547,7 @@
           "2-3 tablespoons milk"
         ],
         "instructions": "1. In a large bowl, combine 2 cups of flour, granulated sugar, yeast, and salt.\n2. In a small saucepan, heat the milk, melted butter, and water until warm.\n3. Add the milk mixture and egg to the flour mixture and beat until well combined.\n4. Stir in the remaining flour to form a soft dough.\n5. On a floured surface, knead the dough for 5 minutes or until smooth and elastic.\n6. Place the dough in a greased bowl, cover, and let it rise in a warm place for 1 hour or until doubled in size.\n7. Punch down the dough and roll it out into a rectangle.\n8. Spread the softened butter over the dough.\n9. In a small bowl, combine the brown sugar and cinnamon, then sprinkle the mixture over the buttered dough.\n10. Roll up the dough tightly and slice it into rolls.\n11. Place the rolls in a greased baking dish and let them rise for 30 minutes.\n12. Bake in a preheated oven at 375°F (190°C) for 20-25 minutes or until golden brown.\n13. In a small bowl, mix the powdered sugar, vanilla extract, and enough milk to make a glaze.\n14. Drizzle the glaze over the warm cinnamon rolls and serve.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 300,
           "carbohydrates": 50,
           "protein": 5,
@@ -1572,7 +1572,7 @@
           "1 1/2 cups fresh blueberries"
         ],
         "instructions": "1. Preheat the oven to 375°F (190°C) and line a muffin tin with paper liners.\n2. In a large bowl, combine the flour, sugar, baking powder, baking soda, and salt.\n3. In a separate bowl, whisk together the milk, melted butter, vanilla extract, and egg.\n4. Pour the wet ingredients into the dry ingredients and stir until just combined.\n5. Gently fold in the blueberries.\n6. Divide the batter evenly among the muffin cups.\n7. Bake for 18-20 minutes or until a toothpick inserted into the center comes out clean.\n8. Allow the muffins to cool in the pan for 5 minutes, then transfer them to a wire rack to cool completely.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 200,
           "carbohydrates": 35,
           "protein": 4,
@@ -1600,7 +1600,7 @@
           "1 tablespoon granulated sugar (for sprinkling)"
         ],
         "instructions": "1. In a large bowl, combine the flour and salt.\n2. Add the cold cubed butter to the flour mixture and use a pastry cutter or your fingers to cut the butter into the flour until it resembles coarse crumbs.\n3. Gradually add the ice water, 1 tablespoon at a time, and mix until the dough comes together.\n4. Divide the dough in half and shape each half into a disk. Wrap them in plastic wrap and refrigerate for 1 hour.\n5. In a large bowl, combine the sliced apples, granulated sugar, flour, cinnamon, nutmeg, and lemon juice.\n6. Roll out one disk of dough on a lightly floured surface and fit it into a 9-inch pie dish.\n7. Pour the apple mixture into the pie crust and dot the top with butter.\n8. Roll out the remaining dough and place it over the filling. Trim the excess dough and crimp the edges to seal.\n9. Cut slits on the top crust for venting.\n10. Brush the top crust with beaten egg and sprinkle with granulated sugar.\n11. Bake in a preheated oven at 375°F (190°C) for 45-50 minutes or until the crust is golden brown and the filling is bubbly.\n12. Allow the pie to cool before serving.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 350,
           "carbohydrates": 50,
           "protein": 3,
@@ -1620,7 +1620,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. Preheat the grill to medium-high heat.\n2. Brush the salmon fillets with olive oil and season with salt and pepper.\n3. Place the salmon on the grill and cook for about 4-5 minutes per side, or until cooked through.\n4. During the last minute of grilling, place a slice of lemon on top of each salmon fillet.\n5. Remove the salmon from the grill and sprinkle with fresh dill.\n6. Serve hot with additional lemon slices.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 300,
           "carbohydrates": 2,
           "protein": 30,
@@ -1641,7 +1641,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. Preheat the oven to 375°F (190°C) and lightly grease a baking dish.\n2. Place the cod fillets in the baking dish.\n3. In a small bowl, mix together the olive oil, minced garlic, parsley, thyme, salt, and pepper.\n4. Brush the herb mixture over the cod fillets, ensuring they are evenly coated.\n5. Bake in the preheated oven for 12-15 minutes or until the fish is opaque and flakes easily with a fork.\n6. Serve hot with your choice of sides.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 250,
           "carbohydrates": 1,
           "protein": 30,
@@ -1662,7 +1662,7 @@
           "Salt and pepper to taste"
         ],
         "instructions": "1. Preheat the grill to medium-high heat.\n2. In a bowl, combine the minced garlic, olive oil, lemon juice, parsley, salt, and pepper.\n3. Thread the shrimp onto skewers.\n4. Brush the shrimp skewers with the lemon garlic mixture.\n5. Grill the shrimp skewers for 2-3 minutes per side, or until pink and opaque.\n6. Remove from the grill and serve hot.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 200,
           "carbohydrates": 2,
           "protein": 25,
@@ -1686,7 +1686,7 @@
           "Sesame seeds for garnish (optional)"
         ],
         "instructions": "1. In a small saucepan, combine the soy sauce, honey, rice vinegar, minced garlic, and grated ginger.\n2. Heat the saucepan over medium heat and bring the mixture to a simmer.\n3. In a separate small bowl, whisk together the cornstarch and water until smooth.\n4. Add the cornstarch mixture to the saucepan and cook, stirring constantly, until the sauce thickens.\n5. Preheat the oven to 400°F (200°C) and line a baking sheet with foil.\n6. Place the salmon fillets on the prepared baking sheet.\n7. Brush the teriyaki glaze over the salmon fillets.\n8. Bake in the preheated oven for 12-15 minutes, or until the salmon is cooked through.\n9. Sprinkle with sesame seeds for garnish, if desired.\n10. Serve hot with steamed rice or vegetables.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 320,
           "carbohydrates": 20,
           "protein": 25,
@@ -1710,7 +1710,7 @@
           "Tartar sauce for serving"
         ],
         "instructions": "1. In a shallow dish, combine the flour, paprika, salt, and black pepper.\n2. Dip each fish fillet in the beaten eggs, then coat with the flour mixture.\n3. Press each fillet into the breadcrumbs to coat evenly.\n4. Heat vegetable oil in a frying pan over medium heat.\n5. Fry the fish fillets until golden brown and crispy, about 3-4 minutes per side.\n6. Remove from the pan and drain on paper towels.\n7. Serve hot with tartar sauce.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 450,
           "carbohydrates": 40,
           "protein": 25,
@@ -1735,7 +1735,7 @@
           "Chopped fresh parsley for garnish"
         ],
         "instructions": "1. Cook the pasta according to the package instructions.\n2. In a large skillet, melt the butter over medium heat.\n3. Add the minced garlic and cook until fragrant, about 1 minute.\n4. Add the shrimp to the skillet and cook until pink and cooked through.\n5. Remove the shrimp from the skillet and set aside.\n6. In the same skillet, add the heavy cream, Parmesan cheese, lemon juice, and lemon zest.\n7. Stir until the sauce thickens and coats the back of a spoon.\n8. Season with salt and pepper to taste.\n9. Return the cooked shrimp to the skillet and toss to coat with the sauce.\n10. Serve the creamy shrimp over the cooked pasta.\n11. Garnish with chopped fresh parsley.",
-        "nutrition_facts": {
+        "nutrition_profile": {
           "calories": 650,
           "carbohydrates": 45,
           "protein": 30,
